@@ -3,12 +3,12 @@
 
 <head>
     <meta charset="UTF-8"><meta charset="utf-8" />
-    <meta name="author" content="Prof. Ronaldo Candido" />
+    <meta name="author" content="Paulo Marcos" />
     <meta name="description" content="Reserva Hotel 
     Estaciano" />
-    <!-- Implementação futura com CSS -->
     <link href="css_form.css" rel="stylesheet" />
     <title>Hotel Estaciano</title>
+    <!-- Implementação com CSS -->
     <style type="text/css">
         html{font-size: 14px;
             font-family: 'Open Sans', sans-serif;}
